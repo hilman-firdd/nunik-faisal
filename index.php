@@ -135,7 +135,7 @@
         <div class="title text-center text-white">
             <div data-aos="fade-up" data-aos-delay="200">
                 <div class="d-flex justify-content-center">
-                    <img src="img/Intro.png" style="width: 356px; height:350px;">
+                    <img src="img/Intro.png" style="width: 356px; height:350px; margin-top:70px;">
                 </div>
                 <br>
                 <p class="guest" style="font-size:20px; color:#fff!important; margin-top:-1.2rem; font-weight:400;">Kepada YTH.<br>
@@ -154,9 +154,9 @@
     <section style="background:url('img/Background_Intro.png') center center no-repeat;" class="curved page-holder bg-cover" id="particles-js">
         <div class="container">
             <header class="text-center text-white vh-100 d-flex flex-column align-items-center justify-content-center mb-5">
-                <img src="img/Intro.png"  style="width: 256px; height:250px; margin-top:5px;"><br>
-                <p style="font-size:14px; font-family: 'Noto Naskh Arabic', serif;">هُوَ ٱلَّذِى خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ وَجَعَلَ مِنْهَا زَوْجَهَا لِيَسْكُنَ إِلَيْهَا ۖ فَلَمَّا تَغَشَّىٰهَا حَمَلَتْ حَمْلًا خَفِيفًا فَمَرَّتْ بِهِۦ ۖ فَلَمَّآ أَثْقَلَت دَّعَوَا ٱللَّهَ رَبَّهُمَا لَئِنْ ءَاتَيْتَنَا صَٰلِحًا لَّنَكُونَنَّ مِنَ ٱلشَّٰكِرِينَ</p>
-                <p style="font-size:12px;">Dialah Yang menciptakan kamu dari diri yang satu dan dari padanya Dia menciptakan isterinya, agar dia merasa senang kepadanya. Maka setelah dicampurinya, isterinya itu mengandung kandungan yang ringan, dan teruslah dia merasa ringan (beberapa waktu). Kemudian tatkala dia merasa berat, keduanya (suami-isteri) bermohon kepada Allah, Tuhannya seraya berkata: "Sesungguhnya jika Engkau memberi kami anak yang saleh, tentulah kami termasuk orang-orang yang bersyukur.</p>
+                <!-- <img src="img/Intro.png"  style="width: 256px; height:250px; margin-top:5px;"><br> -->
+                <p style="font-size:15.5px; font-family: 'Noto Naskh Arabic', serif; color:#0a3d3e;">هُوَ ٱلَّذِى خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ وَجَعَلَ مِنْهَا زَوْجَهَا لِيَسْكُنَ إِلَيْهَا ۖ فَلَمَّا تَغَشَّىٰهَا حَمَلَتْ حَمْلًا خَفِيفًا فَمَرَّتْ بِهِۦ ۖ فَلَمَّآ أَثْقَلَت دَّعَوَا ٱللَّهَ رَبَّهُمَا لَئِنْ ءَاتَيْتَنَا صَٰلِحًا لَّنَكُونَنَّ مِنَ ٱلشَّٰكِرِينَ</p>
+                <p style="font-size:13.5px; color:#0a3d3e;">Dialah Yang menciptakan kamu dari diri yang satu dan dari padanya Dia menciptakan isterinya, agar dia merasa senang kepadanya. Maka setelah dicampurinya, isterinya itu mengandung kandungan yang ringan, dan teruslah dia merasa ringan (beberapa waktu). Kemudian tatkala dia merasa berat, keduanya (suami-isteri) bermohon kepada Allah, Tuhannya seraya berkata: "Sesungguhnya jika Engkau memberi kami anak yang saleh, tentulah kami termasuk orang-orang yang bersyukur.</p>
             </header>
         </div>
         <svg class="editorial mt-5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 24 150 28 " preserveAspectRatio="none">
@@ -196,8 +196,7 @@
 
         <div class="col-lg-7 mx-auto mb-5">
             <div class="row">
-
-                <div data-aos="fade-up" data-aos-easing="ease-out-cubic" data-aos-duration="1000" class="col-lg-5 text-center couples  order-1 ">
+            <div data-aos="fade-up" data-aos-easing="ease-out-cubic" data-aos-duration="1000" class="col-lg-5 text-center couples">
                     <div class="row">
                         <div class="col-12 px-5">
                             <div class="couple-rings">
@@ -208,13 +207,10 @@
                                 Putra dari Pasangan <br>
                                 <b>Putra Bapak Sayuti dan Ibu Suhaeniah</b>
                             </p>
-                            <p><a href="https://www.instagram.com/faesal.fathurrahman12/">
-                                <img src="img/logo instagram (untuk live streaming).png" alt="" width="30">
-                            </a></p>
                         </div>
                     </div>
                 </div>
-                <div data-aos="fade-up" data-aos-easing="ease-out-cubic" data-aos-delay="100" data-aos-duration="1000" class="col-lg-5 text-center couples ">
+                <div data-aos="fade-up" data-aos-easing="ease-out-cubic" data-aos-delay="100" data-aos-duration="1000" class="col-lg-5 text-center couples  order-1">
                     <div class="row">
                         <div class="col-12 px-5">
                             <div class="couple-rings">
@@ -225,12 +221,11 @@
                                 Putri dari Pasangan <br>
                                 <b>Putri Bapak H. Jamanik dan Ibu Nurul Aini</b>
                             </p>
-                            <p><a href="https://www.instagram.com/nunikjamani/">
-                                <img src="img/logo instagram (untuk live streaming).png" alt="" width="30">
-                            </a></p>
                         </div>
                     </div>
                 </div>
+                
+                
                 <div data-aos="fade-up" data-aos-easing="ease-out-cubic" data-aos-duration="2000" class="col-lg-2 end text-center">
                     &
                 </div>
@@ -306,10 +301,10 @@
                 <div class="row">
                     <div class="swiper mySwiper">
                         <div class="swiper-wrapper">
-                            <div class="swiper-slide"><img src="img/galleri/1.png" alt="" width="400"></div>
-                            <div class="swiper-slide"><img src="img/galleri/2.png" alt="" width="400"></div>
-                            <div class="swiper-slide"><img src="img/galleri/3.png" alt="" width="400"></div>
-                            <div class="swiper-slide"><img src="img/galleri/4.png" alt="" width="400"></div>
+                            <div class="swiper-slide"><img src="img/galleri/1.png" alt="" width="270"></div>
+                            <div class="swiper-slide"><img src="img/galleri/2.png" alt="" width="270"></div>
+                            <div class="swiper-slide"><img src="img/galleri/3.png" alt="" width="270"></div>
+                            <div class="swiper-slide"><img src="img/galleri/4.png" alt="" width="270"></div>
                         </div>
                         <div class="swiper-pagination"></div>
                     </div>
@@ -318,7 +313,7 @@
         </div>
     </section>
 
-    <section id="countdown" class="pb-0" style="background:url('img/Backkground.png') center center no-repeat;background-size: cover; margin-top:-12rem;">
+    <section id="countdown" class="pb-0" style="background:url('img/Backkground.png') center center no-repeat;background-size: cover; margin-top:-15rem;">
         <div class="container text-center mt-5">
             <img class="mb-3" src="img/Pembatas.png" width="250">
             <div class="d-flex w-100 align-items-center justify-content-center mb-5" data-aos="flip-up" data-aos-delay="200">
@@ -375,10 +370,22 @@
         <a target="_blank" href="https://maps.app.goo.gl/SPCmiLChAzjvGAJu6" class="btn btn-secondary mt-5 mx-1" data-aos="fade-up" data-aos-delay="500">Open Google Map</a>
     </section>
 
+    <section class="text-center pt-0">
+        <div class="container">
+            <img class="mb-3" src="img/Pembatas.png" width="250">
+            <p class="display-1" style="font-size:40px; font-family:dancing; font-weight:700; font-size:1.9rem; letter-spacing: -1px; margin-top:-5rem;">Live Streaming</p>
+            <img src="img/logo instagram (untuk live streaming).png" alt="" width="80" class="mb-3">
+            <p>
+                <a href="https://www.instagram.com/nunikjamani/" style="color:#0a3d3e">https://www.instagram.com/nunikjamani/</a>
+                <a href="https://www.instagram.com/faesal.fathurrahman12/" style="color:#0a3d3e">https://www.instagram.com/faesal.fathurrahman12/</a>
+            </p>
+        </div>
+    </section>
+
     <section class="guestbook left-flower right-flower" id="guestbook" style="background:url('img/Backkground.png') center center no-repeat;background-size: cover; margin-top:-8rem;">
         <div class="container">
             <img class="mb-3" src="img/Pembatas.png" width="250">
-            <p class="display-1" style="font-size:40px; font-family:dancing; font-size:1.9rem; letter-spacing: -1px; margin-top:-5rem;">Guest Book</p>
+            <p class="display-1" style="font-size:40px; font-family:dancing; font-weight:700; font-size:1.9rem; letter-spacing: -1px; margin-top:-5rem;">Guest Book</p>
         </div>
         <section class="form-ucapan container" style="margin-top:-5rem">
             <form method="POST" id="form-doa">
