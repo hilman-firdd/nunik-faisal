@@ -41,7 +41,7 @@
     <style>
         @font-face {
             font-family: 'dancing';
-            src: URL('./css/dancingScript-Regular.otf') format('truetype');
+            src: URL('css/dancingScript-Regular.otf') format('truetype');
             font-size: 70px!important;
             font-weight: 600;
             font-variant: normal;
