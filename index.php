@@ -395,7 +395,7 @@
             <div class="container text-left shadow">
                 <div class="row justify-content-md-center">
                     <?php
-                    $conn = new mysqli('localhost','u1686239_uo_istisalman','bandung123=','u1686239_uo_istisalman');
+                    $conn = new mysqli('localhost','u1686239_uo_nunikfaisal','bandung123=','u1686239_uo_nunikfaisal');
                     $query = $conn->query("SELECT * FROM tb_comment ORDER BY tanggal ASC ");
                     foreach ($query as $data) : ?>
                         <div class="col-md-12 mb-3">
