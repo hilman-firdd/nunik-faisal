@@ -3,8 +3,8 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home/u1686239/public_html/nunikfaisal
     - /bin/cp * $DEPLOYPATH
-    - /bin cp /css/* $DEPLOYPATH 
-    - /bin cp /home/* $DEPLOYPATH 
-    - /bin cp /js/* $DEPLOYPATH
-    - /bin cp /music/* $DEPLOYPATH
+    - /bin cp /css/ $DEPLOYPATH 
+    - /bin cp /home/ $DEPLOYPATH 
+    - /bin cp /js/ $DEPLOYPATH
+    - /bin cp /music/ $DEPLOYPATH
 
