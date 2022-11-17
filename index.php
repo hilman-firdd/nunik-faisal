@@ -19,7 +19,7 @@
     <meta property="og:title" content="Nunik &amp; Faisal" />
     <meta property="og:url" content="https://risalahati.id">
     <meta property="og:description" content="Nunik &amp; Faisal Berlangsung Pernikahan pada hari Ahad, 27 November 2022. Undangan pernikahan online by risalahati.id">
-    <meta property="og:image" content="https://risalahati.id/wp-content/uploads/2022/11/Intro.png">
+    <meta property="og:image" content="https://risalahati.id/wp-content/uploads/2022/11/Intro-3.png">
     <meta property="og:type" content="website" />
     <meta property="og:image:type" content="image/jpg">
     <meta property='og:image:width' content='300' />
