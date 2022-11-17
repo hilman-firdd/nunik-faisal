@@ -145,13 +145,13 @@
                         <strong class="yth" style="font-size:20px; color:#304146!important; font-weight:700;">guest</strong>,
                     <?php } ?>
                 </p>
-                <button type=button class="btn btn-md btn-secondary open_invitation px-5" style="z-index:100;background-color: #0a3d3e!important; color:#fff; border:none;">Open Invitation</button>
+                <button type=button class="btn btn-md btn-secondary open_invitation px-5" style="z-index:100;background-color: #2e3f44!important; color:#fff; border:none;">Open Invitation</button>
             </div>
         </div>
     </section>
 
 
-    <section style="background:url('img/Background_intro.png') center center no-repeat;" class="curved page-holder bg-cover" id="particles-js">
+    <section style="background:url('img/Background_Intro.png') center center no-repeat;" class="curved page-holder bg-cover" id="particles-js">
         <div class="container">
             <header class="text-center text-white vh-100 d-flex flex-column align-items-center justify-content-center mb-5">
                 <!-- <img src="img/Intro.png"  style="width: 256px; height:250px; margin-top:5px;"><br> -->
@@ -169,16 +169,16 @@
         v44h-352z">
             </defs>
             <g class="parallax1">
-                <use xlink:href="#gentle-wave" x="50" y="3" fill="#0a3d3e">
+                <use xlink:href="#gentle-wave" x="50" y="3" fill="#e5eff1">
             </g>
             <g class="parallax2">
-                <use xlink:href="#gentle-wave" x="50" y="0" fill="#93babb">
+                <use xlink:href="#gentle-wave" x="50" y="0" fill="#96d0de">
             </g>
             <!-- <g class="parallax3">
                 <use xlink:href="#gentle-wave" x="50" y="9" fill="#303030">
             </g> -->
             <g class="parallax4">
-                <use xlink:href="#gentle-wave" x="50" y="6" fill="#cfb9a1">
+                <use xlink:href="#gentle-wave" x="50" y="6" fill="#2e3f44">
             </g>
         </svg>
     </section>
@@ -235,34 +235,9 @@
 
     <section class="location" id="event" style="background:url('img/Background Isi.png') center center no-repeat;background-size: cover; margin-top:-6rem!important;">
         <div class="container" style="margin-top:-75px;">
-            <div class="d-flex w-100 align-items-center justify-content-center mb-3" data-aos="flip-up" data-aos-delay="200">
-                <h2 class="caption" style="font-family:dancing; font-weight:700; letter-spacing: -1px; color:#fff!important; font-size:1.9rem;">Wedding Schedule</h2>
-            </div>
             <div class="row row-eq-height justify-content-center">
-                <div class="col-lg-4 mb-3 d-flex justify-content-center" data-aos="fade-up" data-aos-delay="300">
-                    <div class="card information h-100">
-                        <div class="card-body">
-                            <h3 class="mt-4" style="font-family:dancing; font-size:2rem; font-weight:100; letter-spacing: -1px;">Akad Nikah
-                                <hr>
-                            </h3>
-                            <div class="row mt-4">
-                                <div class="col pt-1" style="font-size:0.9rem">
-                                    November <br> 2022
-                                </div>
-                                <div class="col date">
-                                    <span class="d-block">27</span> Ahad
-                                </div>
-                                <div class="col pt-1" style="font-size:0.9rem">
-                                    Kediaman Mempelai Pria
-                                </div>
-                            </div>
-                            <p class="desc-location mt-3">
-                                <b>Akad:</b> Ahad, 27 November 2022 Pukul. 09.00-11.00 WIB<br><br>
-                                <b>Resepsi:</b> Ahad, 27 November 2022 Pukul. 13.00-14.00.<br><br>
-                                <b>Akad Nikah dan resepsi:</b> Jl. Energi, Ling Karang Buyuk, Ampenan Selatan, Mataram
-                            </p>
-                        </div>
-                    </div>
+                <div class="col-lg-12 col-sm-12 col-xs-12 mb-3 d-flex justify-content-center" data-aos="fade-up" data-aos-delay="300">
+                    <img src="img/Wedding schedule.png" width="400" alt="">
                 </div>
             </div>
         </div>
@@ -293,7 +268,7 @@
     <section class="gallery mask_top-2 mask_bottom" id="gallery" style="background:url('img/Background Isi.png') center center no-repeat;background-size: cover;margin-top:-70px;">
         <div class="container">
             <div class="d-flex w-100 align-items-center flex-column justify-content-center ">
-                <img class="mb-3" src="img/Pembatas.png" width="250">
+                <img class="mb-3" src="img/Pembatas.png" style="margin-top:-5rem;" width="250">
                 <h2 class="caption" style="font-family:dancing; font-size:2rem; letter-spacing: -1px; position:relative; top:-50px!important; margin-bottom:20px;">12.11.12 Khitbah</h2>
             </div>
 
@@ -365,26 +340,30 @@
     </section>
 
 
-    <section class="text-center pt-0">
+    <section class="text-center pt-0" style="background:url('img/Background Isi.png') center center no-repeat;background-size: cover;">
         <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3945.190212964847!2d116.07210499999998!3d-8.577702!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMzQnMzkuNyJTIDExNsKwMDQnMTkuNiJF!5e0!3m2!1sid!2sid!4v1668593375271!5m2!1sid!2sid" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         <a target="_blank" href="https://maps.app.goo.gl/SPCmiLChAzjvGAJu6" class="btn btn-secondary mt-5 mx-1" data-aos="fade-up" data-aos-delay="500">Open Google Map</a>
     </section>
 
-    <section class="text-center pt-0" style="margin-top:-60px;" data-aos="fade-right" data-aos-delay="100">
-        <div class="container">
-            <img class="mb-3" src="img/Pembatas.png" width="250">
+    <section class="text-center pt-0" style="position:relative; z-index:20; margin-top:-90px; background:url('img/Background Isi.png') center center no-repeat;background-size: cover;"  data-aos="fade-right" data-aos-delay="100">
+        <div class="container" style="margin-top:-15px;">
+            <img class="mb-3" src="img/Pembatas.png" style="margin-top:-3.5rem;" width="250">
             <p class="display-1" style="font-size:40px; font-family:dancing; font-weight:700; font-size:1.9rem; letter-spacing: -1px; margin-top:-5rem;">Live Streaming</p>
-            <img src="img/logo instagram (untuk live streaming).png" alt="" width="50" class="mb-3">
-            <p>
-                <a href="https://www.instagram.com/nunikjamani/" style="color:#0a3d3e">https://www.instagram.com/nunikjamani/</a>
-                <a href="https://www.instagram.com/faesal.fathurrahman12/" style="color:#0a3d3e">https://www.instagram.com/faesal.fathurrahman12/</a>
+            <p>Insya Allah Kami akan menyiarkan akad nikah melalui akun media sosial berikut:</p>
+            <p class="d-flex flex-column justify-content-center text-center align-items-center">
+                <img src="img/logo instagram (untuk live streaming).png" alt="" width="25" class="mb-3">
+                <a href="https://www.instagram.com/nunikjamani/" style="color:#0a3d3e; margin-top:-5px;">@nunikjamani</a>
+            </p>
+            <p class="d-flex flex-column justify-content-center text-center align-items-center">
+                <img src="img/logo instagram (untuk live streaming).png" alt="" width="25" class="mb-3">
+                <a href="https://www.instagram.com/faesal.fathurrahman12/" style="color:#0a3d3e; margin-top:-5px;">faesalfathurrahman.12</a>
             </p>
         </div>
     </section>
 
-    <section class="guestbook left-flower right-flower" id="guestbook" style="background:url('img/Backkground.png') center center no-repeat;background-size: cover; margin-top:-8rem;" data-aos="fade-right" data-aos-delay="100">
+    <section class="guestbook left-flower right-flower" id="guestbook" style="background:url('img/Background Isi.png') center center no-repeat;background-size: cover; margin-top:-4.5rem;" data-aos="fade-right" data-aos-delay="100">
         <div class="container">
-            <img class="mb-3" src="img/Pembatas.png" width="250">
+            <img class="mb-3" style="position:relative; z-index:21;" src="img/Pembatas.png" width="250">
             <p class="display-1" style="font-size:40px; font-family:dancing; font-weight:700; font-size:1.9rem; letter-spacing: -1px; margin-top:-5rem;">Guest Book</p>
         </div>
         <section class="form-ucapan container" style="margin-top:-5rem">
@@ -430,7 +409,7 @@
     </section>
 
 
-    <section style="margin-top:-53px!important; background:url('img/Backkground.png') center center no-repeat;background-size: cover;">
+    <section style="margin-top:-18px!important; background:url('img/Background Isi.png') center center no-repeat;background-size: cover;">
         <div class="container" data-aos="fade-up">
             <div class="col-md-12">
                 <img class="mb-3" style="margin-top:-10rem;" src="img/Pembatas.png" width="250">
@@ -444,10 +423,10 @@
         </div>
     </section>
 
-    <section style="margin-top:-53px!important; background:url('img/Backkground.png') center center no-repeat;background-size: cover;">
+    <section style="background:url('img/Background Isi.png') center center no-repeat;background-size: cover;">
         <div class="container" data-aos="fade-up">
             <div class="col-md-12">
-                <img class="mb-3" style="margin-top:-10rem;" src="img/Pembatas.png" width="250">
+                <img class="mb-3" style="margin-top:-11rem;" src="img/Pembatas.png" width="250">
                 <h2 style="font-family:dancing; font-size:1.9rem; letter-spacing: -1px; margin-top:-5rem;">Informasi</h2>
             </div>
             <div class="col-md-12 pt-4">
@@ -540,13 +519,6 @@
             grabCursor: true,
             centeredSlides: true,
             slidesPerView: "auto",
-            coverflowEffect: {
-                rotate: 50,
-                stretch: 0,
-                depth: 100,
-                modifier: 1,
-                slideShadows: true,
-            },
             pagination: {
                 el: ".swiper-pagination",
             },
@@ -556,9 +528,6 @@
         const btnInvitation = document.querySelector('.open_invitation');
         // hide popup
             btnInvitation.onclick = function() {
-                // modal.style.display = 'none';
-                // content.style.display = 'block';
-                // play.style.display = 'none';
                 audio.play();
             }
         // play/pause
