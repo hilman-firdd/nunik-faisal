@@ -237,7 +237,7 @@
         <div class="container" style="margin-top:-75px;">
             <div class="row row-eq-height justify-content-center">
                 <div class="col-lg-12 col-sm-12 col-xs-12 mb-3 d-flex justify-content-center" data-aos="fade-up" data-aos-delay="300">
-                    <img src="img/Wedding schedule.png" width="300" alt="">
+                    <img src="img/Wedding schedule.png" class="my-5" width="300" alt="">
                 </div>
             </div>
         </div>
