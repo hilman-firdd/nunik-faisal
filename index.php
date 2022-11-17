@@ -353,7 +353,7 @@
             <p>Insya Allah Kami akan menyiarkan akad nikah melalui akun media sosial berikut:</p>
             <p class="d-flex flex-column justify-content-center text-center align-items-center">
                 <img src="img/logo instagram (untuk live streaming).png" alt="" width="25" class="mb-3">
-                <a href="https://www.instagram.com/nunikjamani/" style="color:#0a3d3e; margin-top:-5px;">@nunikjamani</a>
+                <a href="https://www.instagram.com/nunikjamani/" style="color:#0a3d3e; margin-top:-5px;">nunikjamani</a>
             </p>
             <p class="d-flex flex-column justify-content-center text-center align-items-center">
                 <img src="img/logo instagram (untuk live streaming).png" alt="" width="25" class="mb-3">
