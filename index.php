@@ -138,11 +138,11 @@
                     <img src="img/Intro.png" style="width: 356px; height:350px; margin-top:70px;">
                 </div>
                 <br>
-                <p class="guest" style="font-size:20px; color:#fff!important; margin-top:-1.2rem; font-weight:400;">Kepada YTH.<br>
+                <p class="guest" style="font-size:20px; color:#304146!important; margin-top:-1.2rem; font-weight:400;">Kepada YTH.<br>
                     <?php if (urldecode($baso)) { ?>
-                        <strong class="yth" style="font-size:20px; color:#fff!important; font-weight:700;"><?= urldecode($baso) ?></strong>,
+                        <strong class="yth" style="font-size:20px; color:#304146!important; font-weight:700;"><?= urldecode($baso) ?></strong>,
                     <?php } else { ?>
-                        <strong class="yth" style="font-size:20px; color:#fff!important; font-weight:700;">guest</strong>,
+                        <strong class="yth" style="font-size:20px; color:#304146!important; font-weight:700;">guest</strong>,
                     <?php } ?>
                 </p>
                 <button type=button class="btn btn-md btn-secondary open_invitation px-5" style="z-index:100;background-color: #0a3d3e!important; color:#fff; border:none;">Open Invitation</button>
@@ -151,7 +151,7 @@
     </section>
 
 
-    <section style="background:url('img/Background_Intro.png') center center no-repeat;" class="curved page-holder bg-cover" id="particles-js">
+    <section style="background:url('img/Background_intro.png') center center no-repeat;" class="curved page-holder bg-cover" id="particles-js">
         <div class="container">
             <header class="text-center text-white vh-100 d-flex flex-column align-items-center justify-content-center mb-5">
                 <!-- <img src="img/Intro.png"  style="width: 256px; height:250px; margin-top:5px;"><br> -->
@@ -183,10 +183,10 @@
         </svg>
     </section>
 
-    <section class="couple" id="couple" style="background:url('img/Backkground.png') center center no-repeat;background-size: cover; margin-top:-12rem;">
+    <section class="couple" id="couple" style="background:url('img/Background Isi.png') center center no-repeat;background-size: cover; margin-top:-12rem;">
         <img class="mb-3" src="img/Pembatas.png" width="250">
         <div class="d-flex w-100 align-items-center justify-content-center mb-3" data-aos="flip-up" data-aos-delay="200">
-            <h2 class="caption" style="font-family:dancing; font-size:1.9rem; letter-spacing: -1px;"> Nunik &amp; Faisal</h2>
+            <h2 class="caption" style="margin-top:-32px;font-family:dancing; font-size:1.9rem; letter-spacing: -1px;"> Nunik &amp; Faisal</h2>
         </div>
 
         <div class="container" data-aos="fade-up">
@@ -202,7 +202,7 @@
                             <div class="couple-rings">
                                 <img src="img/Mempelai Pria.png" alt="Faisal Fathurrahman, S.I.P. Photo" class="img-fluid" style="width:50%!important;">
                             </div>
-                            <h2 style="font-size:1.2rem; font-family:dancing; letter-spacing: -1px;" class="my-3">Faisal Fathurrahman, S.I.P.</h2>
+                            <h2 style="font-size:1.7rem; font-family:dancing; letter-spacing: -1px;" class="my-3">Faisal Fathurrahman, S.I.P.</h2>
                             <p>
                                 Putra dari Pasangan <br>
                                 <b>Putra Bapak Sayuti dan Ibu Suhaeniah</b>
@@ -216,7 +216,7 @@
                             <div class="couple-rings">
                                 <img src="img/Mempelai Wanita.png" alt="Nunik Kurniawati, S.Pd. Photo"class="img-fluid" style="width:50%!important;">
                             </div>
-                            <h2 style="font-size:1.2rem; font-family:dancing; letter-spacing: -1px;" class="my-3">Nunik Kurniawati, S.Pd.</h2>
+                            <h2 style="font-size:1.7rem; font-family:dancing; letter-spacing: -1px;" class="my-3">Nunik Kurniawati, S.Pd.</h2>
                             <p>
                                 Putri dari Pasangan <br>
                                 <b>Putri Bapak H. Jamanik dan Ibu Nurul Aini</b>
@@ -233,16 +233,16 @@
         </div>
     </section>
 
-    <section class="location" id="event" style="background:url('img/Background_Isi.png') center center no-repeat;background-size: cover; margin-top:-6rem!important;">
+    <section class="location" id="event" style="background:url('img/Background Isi.png') center center no-repeat;background-size: cover; margin-top:-6rem!important;">
         <div class="container" style="margin-top:-75px;">
             <div class="d-flex w-100 align-items-center justify-content-center mb-3" data-aos="flip-up" data-aos-delay="200">
-                <h2 class="caption" style="font-family:monserta; letter-spacing: -1px; color:#fff!important; font-size:1.9rem;">Wedding Schedule</h2>
+                <h2 class="caption" style="font-family:dancing; font-weight:700; letter-spacing: -1px; color:#fff!important; font-size:1.9rem;">Wedding Schedule</h2>
             </div>
             <div class="row row-eq-height justify-content-center">
                 <div class="col-lg-4 mb-3 d-flex justify-content-center" data-aos="fade-up" data-aos-delay="300">
                     <div class="card information h-100">
                         <div class="card-body">
-                            <h3 class="mt-4" style="font-family:dancing; font-size:1.5rem; font-weight:100; letter-spacing: -1px;">Akad Nikah
+                            <h3 class="mt-4" style="font-family:dancing; font-size:2rem; font-weight:100; letter-spacing: -1px;">Akad Nikah
                                 <hr>
                             </h3>
                             <div class="row mt-4">
@@ -257,9 +257,9 @@
                                 </div>
                             </div>
                             <p class="desc-location mt-3">
-                                Akad: Ahad, 27 November 2022 Pukul. 09.00-11.00 WIB<br>
-                                Resepsi: Ahad, 27 November 2022 Pukul. 13.00-14.00.<br>
-                                Akad Nikah dan resepsi: Jl. Energi, Ling Karang Buyuk, Ampenan Selatan, Mataram
+                                <b>Akad:</b> Ahad, 27 November 2022 Pukul. 09.00-11.00 WIB<br><br>
+                                <b>Resepsi:</b> Ahad, 27 November 2022 Pukul. 13.00-14.00.<br><br>
+                                <b>Akad Nikah dan resepsi:</b> Jl. Energi, Ling Karang Buyuk, Ampenan Selatan, Mataram
                             </p>
                         </div>
                     </div>
@@ -290,21 +290,21 @@
         </svg>
     </section>
 
-    <section class="gallery mask_top-2 mask_bottom" id="gallery" style="margin-top:-100px;">
+    <section class="gallery mask_top-2 mask_bottom" id="gallery" style="background:url('img/Background Isi.png') center center no-repeat;background-size: cover;margin-top:-70px;">
         <div class="container">
-            <div class="d-flex w-100 align-items-center flex-column justify-content-center mb-2">
+            <div class="d-flex w-100 align-items-center flex-column justify-content-center ">
                 <img class="mb-3" src="img/Pembatas.png" width="250">
-                <h2 class="caption" style="font-family:kriwil; font-size:1.9rem; letter-spacing: -1px; position:relative; top:-50px!important; margin-bottom:20px;">12.11.12 Khitbah</h2>
+                <h2 class="caption" style="font-family:dancing; font-size:2rem; letter-spacing: -1px; position:relative; top:-50px!important; margin-bottom:20px;">12.11.12 Khitbah</h2>
             </div>
 
-            <div class="col-lg-12 mt-5">
+            <div class="col-lg-12 mt-3">
                 <div class="row">
                     <div class="swiper mySwiper">
                         <div class="swiper-wrapper">
-                            <div class="swiper-slide"><img src="img/galleri/1.png" alt="" width="270"></div>
-                            <div class="swiper-slide"><img src="img/galleri/2.png" alt="" width="270"></div>
-                            <div class="swiper-slide"><img src="img/galleri/3.png" alt="" width="270"></div>
-                            <div class="swiper-slide"><img src="img/galleri/4.png" alt="" width="270"></div>
+                            <div class="swiper-slide"><img src="img/galleri/1.png" alt="" width="320"></div>
+                            <div class="swiper-slide"><img src="img/galleri/2.png" alt="" width="320"></div>
+                            <div class="swiper-slide"><img src="img/galleri/3.png" alt="" width="320"></div>
+                            <div class="swiper-slide"><img src="img/galleri/4.png" alt="" width="320"></div>
                         </div>
                         <div class="swiper-pagination"></div>
                     </div>
@@ -313,11 +313,11 @@
         </div>
     </section>
 
-    <section id="countdown" class="pb-0" style="background:url('img/Backkground.png') center center no-repeat;background-size: cover; margin-top:-15rem;">
+    <section id="countdown" class="pb-0" style="background:url('img/Background Isi.png') center center no-repeat;background-size: cover; margin-top:-13rem;">
         <div class="container text-center mt-5">
             <img class="mb-3" src="img/Pembatas.png" width="250">
-            <div class="d-flex w-100 align-items-center justify-content-center mb-5" data-aos="flip-up" data-aos-delay="200">
-                <h2 class="caption" style="font-family:dancing; font-size:1.9rem; letter-spacing: -1px;">Countdown</h2>
+            <div class="d-flex w-100 align-items-center justify-content-center mb-5" style="margin-top:-27px;" data-aos="flip-up" data-aos-delay="200">
+                <h2 class="caption" style="font-family:dancing; font-size:2rem; letter-spacing: -1px;">Countdown</h2>
             </div>
             <div class="col-lg-8 mt-5 mx-auto">
                 <div class="row timer-wrapper">
@@ -370,11 +370,11 @@
         <a target="_blank" href="https://maps.app.goo.gl/SPCmiLChAzjvGAJu6" class="btn btn-secondary mt-5 mx-1" data-aos="fade-up" data-aos-delay="500">Open Google Map</a>
     </section>
 
-    <section class="text-center pt-0">
+    <section class="text-center pt-0" style="margin-top:-60px;">
         <div class="container">
             <img class="mb-3" src="img/Pembatas.png" width="250">
             <p class="display-1" style="font-size:40px; font-family:dancing; font-weight:700; font-size:1.9rem; letter-spacing: -1px; margin-top:-5rem;">Live Streaming</p>
-            <img src="img/logo instagram (untuk live streaming).png" alt="" width="80" class="mb-3">
+            <img src="img/logo instagram (untuk live streaming).png" alt="" width="50" class="mb-3">
             <p>
                 <a href="https://www.instagram.com/nunikjamani/" style="color:#0a3d3e">https://www.instagram.com/nunikjamani/</a>
                 <a href="https://www.instagram.com/faesal.fathurrahman12/" style="color:#0a3d3e">https://www.instagram.com/faesal.fathurrahman12/</a>
@@ -437,7 +437,7 @@
                 <h2 style="font-family:dancing; font-size:1.9rem; letter-spacing: -1px; margin-top:-5rem;">Quotes</h2>
             </div>
             <div class="col-md-12 pt-4">
-                <div style="max-width:500px;margin:auto">
+                <div style="max-width:500px;margin:auto; padding:15px; border:3px solid #0a3d3e; border-radius:10px; box-shadow:1px 1px 1px #eee;">
                     <p>"Cinta sejati adalah suatu perkara yang merujuk kepada hakikat batin. Meskipun pada mulanya ia bernisbah kepada kenyataan zahir, namun demikian, kesedaran akan pengenalan cinta sejati hanya akan timbul tampak pada nazar keinsafan diri apabila hakikat batin itu telah dikenali. Sia-sialah berlagak menda'wa diri cinta sejati jika sekiranya cinta itu ditumpukan kepada rupa jasmani belaka." (Syed Muhammad Naquib Al-Attas, RUKM, 7) </p>
                 </div>
             </div>
