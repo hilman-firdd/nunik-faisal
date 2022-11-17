@@ -274,6 +274,7 @@
 
             <div class="col-lg-12 mt-3">
                 <div class="row">
+                    <h5 class="text-center mx-auto">Swipe</h6>
                     <div class="swiper mySwiper">
                         <div class="swiper-wrapper">
                             <div class="swiper-slide"><img src="img/galleri/1.png" alt="" width="320"></div>
@@ -416,8 +417,9 @@
                 <h2 style="font-family:dancing; font-size:1.9rem; letter-spacing: -1px; margin-top:-5rem;">Quotes</h2>
             </div>
             <div class="col-md-12 pt-4">
-                <div style="max-width:500px;margin:auto; padding:15px; border:3px solid #0a3d3e; border-radius:10px; box-shadow:1px 1px 1px #eee;" data-aos="fade-right" data-aos-delay="100">
-                    <p>"Cinta sejati adalah suatu perkara yang merujuk kepada hakikat batin. Meskipun pada mulanya ia bernisbah kepada kenyataan zahir, namun demikian, kesedaran akan pengenalan cinta sejati hanya akan timbul tampak pada nazar keinsafan diri apabila hakikat batin itu telah dikenali. Sia-sialah berlagak menda'wa diri cinta sejati jika sekiranya cinta itu ditumpukan kepada rupa jasmani belaka." (Syed Muhammad Naquib Al-Attas, RUKM, 7) </p>
+                <div style="max-width:500px;margin:auto; padding:15px;" data-aos="fade-right" data-aos-delay="100">
+                    <p class="monserta" style="font-weight:500;">"Cinta sejati adalah suatu perkara yang merujuk kepada hakikat batin. Meskipun pada mulanya ia bernisbah kepada kenyataan zahir, namun demikian, kesedaran akan pengenalan cinta sejati hanya akan timbul tampak pada nazar keinsafan diri apabila hakikat batin itu telah dikenali. Sia-sialah berlagak menda'wa diri cinta sejati jika sekiranya cinta itu ditumpukan kepada rupa jasmani belaka."</p>
+                    <p class="monserta">(Syed Muhammad Naquib Al-Attas, RUKM, 7)</p>
                 </div>
             </div>
         </div>
@@ -521,6 +523,12 @@
             slidesPerView: "auto",
             pagination: {
                 el: ".swiper-pagination",
+                clickable: true,
+            },
+            // Navigation arrows
+            navigation: {
+                nextEl: '.swiper-button-next',
+                prevEl: '.swiper-button-prev',
             },
         });
         
