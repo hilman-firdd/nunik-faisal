@@ -266,7 +266,7 @@
                 </div>
             </div>
         </div>
-        <svg class="editorial" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 24 150 28 " preserveAspectRatio="none">
+        <svg class="editorial" style="margin-top:-13px!important; position:relative;" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 24 150 28 " preserveAspectRatio="none">
             <defs>
                 <path id="gentle-wave" d="M-160 44c30 0
         58-18 88-18s
@@ -370,7 +370,7 @@
         <a target="_blank" href="https://maps.app.goo.gl/SPCmiLChAzjvGAJu6" class="btn btn-secondary mt-5 mx-1" data-aos="fade-up" data-aos-delay="500">Open Google Map</a>
     </section>
 
-    <section class="text-center pt-0" style="margin-top:-60px;">
+    <section class="text-center pt-0" style="margin-top:-60px;" data-aos="fade-right" data-aos-delay="100">
         <div class="container">
             <img class="mb-3" src="img/Pembatas.png" width="250">
             <p class="display-1" style="font-size:40px; font-family:dancing; font-weight:700; font-size:1.9rem; letter-spacing: -1px; margin-top:-5rem;">Live Streaming</p>
@@ -382,7 +382,7 @@
         </div>
     </section>
 
-    <section class="guestbook left-flower right-flower" id="guestbook" style="background:url('img/Backkground.png') center center no-repeat;background-size: cover; margin-top:-8rem;">
+    <section class="guestbook left-flower right-flower" id="guestbook" style="background:url('img/Backkground.png') center center no-repeat;background-size: cover; margin-top:-8rem;" data-aos="fade-right" data-aos-delay="100">
         <div class="container">
             <img class="mb-3" src="img/Pembatas.png" width="250">
             <p class="display-1" style="font-size:40px; font-family:dancing; font-weight:700; font-size:1.9rem; letter-spacing: -1px; margin-top:-5rem;">Guest Book</p>
@@ -437,7 +437,7 @@
                 <h2 style="font-family:dancing; font-size:1.9rem; letter-spacing: -1px; margin-top:-5rem;">Quotes</h2>
             </div>
             <div class="col-md-12 pt-4">
-                <div style="max-width:500px;margin:auto; padding:15px; border:3px solid #0a3d3e; border-radius:10px; box-shadow:1px 1px 1px #eee;">
+                <div style="max-width:500px;margin:auto; padding:15px; border:3px solid #0a3d3e; border-radius:10px; box-shadow:1px 1px 1px #eee;" data-aos="fade-right" data-aos-delay="100">
                     <p>"Cinta sejati adalah suatu perkara yang merujuk kepada hakikat batin. Meskipun pada mulanya ia bernisbah kepada kenyataan zahir, namun demikian, kesedaran akan pengenalan cinta sejati hanya akan timbul tampak pada nazar keinsafan diri apabila hakikat batin itu telah dikenali. Sia-sialah berlagak menda'wa diri cinta sejati jika sekiranya cinta itu ditumpukan kepada rupa jasmani belaka." (Syed Muhammad Naquib Al-Attas, RUKM, 7) </p>
                 </div>
             </div>
