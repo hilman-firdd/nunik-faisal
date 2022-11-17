@@ -237,7 +237,7 @@
         <div class="container" style="margin-top:-75px;">
             <div class="row row-eq-height justify-content-center">
                 <div class="col-lg-12 col-sm-12 col-xs-12 mb-3 d-flex justify-content-center" data-aos="fade-up" data-aos-delay="300">
-                    <img src="img/Wedding schedule.png" width="400" alt="">
+                    <img src="img/Wedding schedule.png" width="300" alt="">
                 </div>
             </div>
         </div>
@@ -251,16 +251,16 @@
         v44h-352z">
             </defs>
             <g class="parallax1">
-                <use xlink:href="#gentle-wave" x="50" y="3" fill="#0a3d3e">
+                <use xlink:href="#gentle-wave" x="50" y="3" fill="#e5eff1">
             </g>
             <g class="parallax2">
-                <use xlink:href="#gentle-wave" x="50" y="0" fill="#93babb">
+                <use xlink:href="#gentle-wave" x="50" y="0" fill="#96d0de">
             </g>
             <!-- <g class="parallax3">
                 <use xlink:href="#gentle-wave" x="50" y="9" fill="#303030">
             </g> -->
             <g class="parallax4">
-                <use xlink:href="#gentle-wave" x="50" y="6" fill="#cfb9a1">
+                <use xlink:href="#gentle-wave" x="50" y="6" fill="#2e3f44">
             </g>
         </svg>
     </section>
@@ -490,7 +490,7 @@
                     </div>
                     <div class="row">
                         <div class="col-8">
-                            <b>BNI </b><br>
+                            <b>BRI </b><br>
                             <span onClick='copyText(this)'>3494-01-034908-53-1 <img src="https://cdn-icons-png.flaticon.com/512/178/178921.png" style="height:13px;margin-top:-5px;cursor:pointer"></span><br>
                             a/n Faisal Fathurrahman<br>
 
