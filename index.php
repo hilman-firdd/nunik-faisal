@@ -155,8 +155,8 @@
         <div class="container">
             <header class="text-center text-white vh-100 d-flex flex-column align-items-center justify-content-center mb-5">
                 <!-- <img src="img/Intro.png"  style="width: 256px; height:250px; margin-top:5px;"><br> -->
-                <p style="font-size:15.5px; font-family: 'Noto Naskh Arabic', serif; color:#0a3d3e;">هُوَ ٱلَّذِى خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ وَجَعَلَ مِنْهَا زَوْجَهَا لِيَسْكُنَ إِلَيْهَا ۖ فَلَمَّا تَغَشَّىٰهَا حَمَلَتْ حَمْلًا خَفِيفًا فَمَرَّتْ بِهِۦ ۖ فَلَمَّآ أَثْقَلَت دَّعَوَا ٱللَّهَ رَبَّهُمَا لَئِنْ ءَاتَيْتَنَا صَٰلِحًا لَّنَكُونَنَّ مِنَ ٱلشَّٰكِرِينَ</p>
-                <p style="font-size:13.5px; color:#0a3d3e;">Dialah Yang menciptakan kamu dari diri yang satu dan dari padanya Dia menciptakan isterinya, agar dia merasa senang kepadanya. Maka setelah dicampurinya, isterinya itu mengandung kandungan yang ringan, dan teruslah dia merasa ringan (beberapa waktu). Kemudian tatkala dia merasa berat, keduanya (suami-isteri) bermohon kepada Allah, Tuhannya seraya berkata: "Sesungguhnya jika Engkau memberi kami anak yang saleh, tentulah kami termasuk orang-orang yang bersyukur.</p>
+                <p style="font-size:15.5px; font-family: 'Noto Naskh Arabic', serif; color:#0a3d3e;">وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُمْ مِنْ أَنْفُسِكُمْ أَزْوَاجًا لِتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُمْ مَوَدَّةً وَرَحْمَةً ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِقَوْمٍ يَتَفَكَّرُونَ</p>
+                <p style="font-size:13.5px; color:#0a3d3e;">Dan di antara tanda-tanda kekuasaan-Nya ialah Dia menciptakan untukmu isteri-isteri dari jenismu sendiri, supaya kamu cenderung dan merasa tenteram kepadanya, dan dijadikan-Nya diantaramu rasa kasih dan sayang. Sesungguhnya pada yang demikian itu benar-benar terdapat tanda-tanda bagi kaum yang berfikir.</p>
             </header>
         </div>
         <svg class="editorial mt-5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 24 150 28 " preserveAspectRatio="none">
@@ -183,10 +183,10 @@
         </svg>
     </section>
 
-    <section class="couple" id="couple" style="background:url('img/Background Isi.png') center center no-repeat;background-size: cover; margin-top:-12rem;">
-        <img class="mb-3" src="img/Pembatas.png" width="250">
+    <section class="couple" id="couple" style="background:url('img/Background Isi.png') center center no-repeat;background-size: cover; margin-top:-7.5rem;">
+        <!-- <img class="mb-3" src="img/Pembatas.png" width="250"> -->
         <div class="d-flex w-100 align-items-center justify-content-center mb-3" data-aos="flip-up" data-aos-delay="200">
-            <h2 class="caption" style="margin-top:-32px;font-family:dancing; font-size:1.9rem; letter-spacing: -1px;"> Nunik &amp; Faisal</h2>
+            <h2 class="caption" style="font-family:dancing; font-size:1.9rem; letter-spacing: -1px;"> Nunik &amp; Faisal</h2>
         </div>
 
         <div class="container" data-aos="fade-up">
@@ -268,8 +268,8 @@
     <section class="gallery mask_top-2 mask_bottom" id="gallery" style="background:url('img/Background Isi.png') center center no-repeat;background-size: cover;margin-top:-70px;">
         <div class="container">
             <div class="d-flex w-100 align-items-center flex-column justify-content-center ">
-                <img class="mb-3" src="img/Pembatas.png" style="margin-top:-5rem;" width="250">
-                <h2 class="caption" style="font-family:dancing; font-size:2rem; letter-spacing: -1px; position:relative; top:-50px!important; margin-bottom:20px;">12.11.12 Khitbah</h2>
+                <!-- <img class="mb-3" src="img/Pembatas.png" style="margin-top:-5rem;" width="250"> -->
+                <h2 class="caption" style="font-family:dancing; font-size:2rem; letter-spacing: -1px; position:relative; top:-50px!important; margin-bottom:20px;">12.11.22 Khitbah</h2>
             </div>
 
             <div class="col-lg-12 mt-3">
@@ -289,9 +289,9 @@
         </div>
     </section>
 
-    <section id="countdown" class="pb-0" style="background:url('img/Background Isi.png') center center no-repeat;background-size: cover; margin-top:-13rem;">
+    <section id="countdown" class="pb-0" style="background:url('img/Background Isi.png') center center no-repeat;background-size: cover; margin-top:-5.5rem;">
         <div class="container text-center mt-5">
-            <img class="mb-3" src="img/Pembatas.png" width="250">
+            <!-- <img class="mb-3" src="img/Pembatas.png" width="250"> -->
             <div class="d-flex w-100 align-items-center justify-content-center mb-5" style="margin-top:-27px;" data-aos="flip-up" data-aos-delay="200">
                 <h2 class="caption" style="font-family:dancing; font-size:2rem; letter-spacing: -1px;">Countdown</h2>
             </div>
@@ -344,11 +344,33 @@
     <section class="text-center pt-0" style="background:url('img/Background Isi.png') center center no-repeat;background-size: cover;">
         <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3945.190212964847!2d116.07210499999998!3d-8.577702!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMzQnMzkuNyJTIDExNsKwMDQnMTkuNiJF!5e0!3m2!1sid!2sid!4v1668593375271!5m2!1sid!2sid" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         <a target="_blank" href="https://maps.app.goo.gl/SPCmiLChAzjvGAJu6" class="btn btn-secondary mt-5 mx-1" data-aos="fade-up" data-aos-delay="500">Open Google Map</a>
+        <svg class="editorial my-5" style="margin-top:13px!important; margin-bottom:10px; position:relative;" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 24 150 28 " preserveAspectRatio="none">
+            <defs>
+                <path id="gentle-wave" d="M-160 44c30 0
+        58-18 88-18s
+        58 18 88 18
+        58-18 88-18
+        58 18 88 18
+        v44h-352z">
+            </defs>
+            <g class="parallax1">
+                <use xlink:href="#gentle-wave" x="50" y="3" fill="#e5eff1">
+            </g>
+            <g class="parallax2">
+                <use xlink:href="#gentle-wave" x="50" y="0" fill="#96d0de">
+            </g>
+            <!-- <g class="parallax3">
+                <use xlink:href="#gentle-wave" x="50" y="9" fill="#303030">
+            </g> -->
+            <g class="parallax4">
+                <use xlink:href="#gentle-wave" x="50" y="6" fill="#2e3f44">
+            </g>
+        </svg>
     </section>
 
-    <section class="text-center pt-0" style="position:relative; z-index:20; margin-top:-90px; background:url('img/Background Isi.png') center center no-repeat;background-size: cover;"  data-aos="fade-right" data-aos-delay="100">
+    <section class="text-center pt-0" style="background:url('img/Background Isi.png') center center no-repeat;background-size: cover; margin-top:2rem;"  data-aos="fade-right" data-aos-delay="100">
         <div class="container" style="margin-top:-15px;">
-            <img class="mb-3" src="img/Pembatas.png" style="margin-top:-3.5rem;" width="250">
+            <!-- <img class="mb-3" src="img/Pembatas.png" style="margin-top:-3.5rem;" width="250"> -->
             <p class="display-1" style="font-size:40px; font-family:dancing; font-weight:700; font-size:1.9rem; letter-spacing: -1px; margin-top:-5rem;">Live Streaming</p>
             <p>Insya Allah Kami akan menyiarkan akad nikah melalui akun media sosial berikut:</p>
             <p class="d-flex flex-column justify-content-center text-center align-items-center">
@@ -357,17 +379,40 @@
             </p>
             <p class="d-flex flex-column justify-content-center text-center align-items-center">
                 <img src="img/logo instagram (untuk live streaming).png" alt="" width="25" class="mb-3">
-                <a href="https://www.instagram.com/faesal.fathurrahman12/" style="color:#0a3d3e; margin-top:-5px;">faesalfathurrahman.12</a>
+                <a href="https://www.instagram.com/faesal.fathurrahman12/" style="color:#0a3d3e; margin-top:-5px;">Faesal.fathurrahman12</a>
             </p>
         </div>
     </section>
 
-    <section class="guestbook left-flower right-flower" id="guestbook" style="background:url('img/Background Isi.png') center center no-repeat;background-size: cover; margin-top:-4.5rem;" data-aos="fade-right" data-aos-delay="100">
+    <svg class="editorial my-5" style="margin-top:-32px!important; margin-bottom:10px; position:relative;" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 24 150 28 " preserveAspectRatio="none">
+            <defs>
+                <path id="gentle-wave" d="M-160 44c30 0
+        58-18 88-18s
+        58 18 88 18
+        58-18 88-18
+        58 18 88 18
+        v44h-352z">
+            </defs>
+            <g class="parallax1">
+                <use xlink:href="#gentle-wave" x="50" y="3" fill="#e5eff1">
+            </g>
+            <g class="parallax2">
+                <use xlink:href="#gentle-wave" x="50" y="0" fill="#96d0de">
+            </g>
+            <!-- <g class="parallax3">
+                <use xlink:href="#gentle-wave" x="50" y="9" fill="#303030">
+            </g> -->
+            <g class="parallax4">
+                <use xlink:href="#gentle-wave" x="50" y="6" fill="#2e3f44">
+            </g>
+        </svg>
+    <section class="guestbook left-flower right-flower" id="guestbook" style="background:url('img/Background Isi.png') center center no-repeat;background-size: cover;" data-aos="fade-right" data-aos-delay="100">
+       
         <div class="container">
-            <img class="mb-3" style="position:relative; z-index:21;" src="img/Pembatas.png" width="250">
-            <p class="display-1" style="font-size:40px; font-family:dancing; font-weight:700; font-size:1.9rem; letter-spacing: -1px; margin-top:-5rem;">Guest Book</p>
+            <!-- <img class="mb-3" style="position:relative; z-index:21;" src="img/Pembatas.png" width="250"> -->
+            <p class="display-1" style="font-size:40px; font-family:dancing; font-weight:700; font-size:1.9rem; letter-spacing: -1px;">Guest Book</p>
         </div>
-        <section class="form-ucapan container" style="margin-top:-5rem">
+        <section class="form-ucapan container" style="margin-top:-2rem">
             <form method="POST" id="form-doa">
 
                 <div class="input pt2">
@@ -409,11 +454,32 @@
         </div>
     </section>
 
-
-    <section style="margin-top:-18px!important; background:url('img/Background Isi.png') center center no-repeat;background-size: cover;">
+    <svg class="editorial my-5" style="margin-top:-32px!important; margin-bottom:10px; position:relative;" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 24 150 28 " preserveAspectRatio="none">
+            <defs>
+                <path id="gentle-wave" d="M-160 44c30 0
+        58-18 88-18s
+        58 18 88 18
+        58-18 88-18
+        58 18 88 18
+        v44h-352z">
+            </defs>
+            <g class="parallax1">
+                <use xlink:href="#gentle-wave" x="50" y="3" fill="#e5eff1">
+            </g>
+            <g class="parallax2">
+                <use xlink:href="#gentle-wave" x="50" y="0" fill="#96d0de">
+            </g>
+            <!-- <g class="parallax3">
+                <use xlink:href="#gentle-wave" x="50" y="9" fill="#303030">
+            </g> -->
+            <g class="parallax4">
+                <use xlink:href="#gentle-wave" x="50" y="6" fill="#2e3f44">
+            </g>
+        </svg>
+    <section style="margin-top:0px!important; background:url('img/Background Isi.png') center center no-repeat;background-size: cover;">
         <div class="container" data-aos="fade-up">
             <div class="col-md-12">
-                <img class="mb-3" style="margin-top:-10rem;" src="img/Pembatas.png" width="250">
+                <!-- <img class="mb-3" style="margin-top:-10rem;" src="img/Pembatas.png" width="250"> -->
                 <h2 style="font-family:dancing; font-size:1.9rem; letter-spacing: -1px; margin-top:-5rem;">Quotes</h2>
             </div>
             <div class="col-md-12 pt-4">
@@ -425,10 +491,32 @@
         </div>
     </section>
 
+    <svg class="editorial my-5" style="margin-top:-32px!important; margin-bottom:10px; position:relative;" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 24 150 28 " preserveAspectRatio="none">
+            <defs>
+                <path id="gentle-wave" d="M-160 44c30 0
+        58-18 88-18s
+        58 18 88 18
+        58-18 88-18
+        58 18 88 18
+        v44h-352z">
+            </defs>
+            <g class="parallax1">
+                <use xlink:href="#gentle-wave" x="50" y="3" fill="#e5eff1">
+            </g>
+            <g class="parallax2">
+                <use xlink:href="#gentle-wave" x="50" y="0" fill="#96d0de">
+            </g>
+            <!-- <g class="parallax3">
+                <use xlink:href="#gentle-wave" x="50" y="9" fill="#303030">
+            </g> -->
+            <g class="parallax4">
+                <use xlink:href="#gentle-wave" x="50" y="6" fill="#2e3f44">
+            </g>
+        </svg>
     <section style="background:url('img/Background Isi.png') center center no-repeat;background-size: cover;">
         <div class="container" data-aos="fade-up">
             <div class="col-md-12">
-                <img class="mb-3" style="margin-top:-11rem;" src="img/Pembatas.png" width="250">
+                <!-- <img class="mb-3" style="margin-top:-11rem;" src="img/Pembatas.png" width="250"> -->
                 <h2 style="font-family:dancing; font-size:1.9rem; letter-spacing: -1px; margin-top:-5rem;">Informasi</h2>
             </div>
             <div class="col-md-12 pt-4">
