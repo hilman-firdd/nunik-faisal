@@ -140,9 +140,9 @@
                 <br>
                 <p class="guest" style="font-size:20px; color:#304146!important; margin-top:-1.2rem; font-weight:400;">Kepada YTH.<br>
                     <?php if (urldecode($baso)) { ?>
-                        <strong class="yth" style="font-size:20px; color:#304146!important; font-weight:700;"><?= urldecode($baso) ?></strong>,
+                        <strong class="yth" style="font-size:20px; color:#304146!important; font-weight:700;"><?= urldecode($baso) ?></strong>
                     <?php } else { ?>
-                        <strong class="yth" style="font-size:20px; color:#304146!important; font-weight:700;">guest</strong>,
+                        <strong class="yth" style="font-size:20px; color:#304146!important; font-weight:700;">guest</strong>
                     <?php } ?>
                 </p>
                 <button type=button class="btn btn-md btn-secondary open_invitation px-5" style="z-index:100;background-color: #2e3f44!important; color:#fff; border:none;">Open Invitation</button>
