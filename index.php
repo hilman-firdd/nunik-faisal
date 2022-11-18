@@ -183,10 +183,10 @@
         </svg>
     </section>
 
-    <section class="couple" id="couple" style="background:url('img/Background Isi.png') center center no-repeat;background-size: cover; margin-top:-7.5rem;">
+    <section class="couple" id="couple" style="background:url('img/Background Isi.png') center center no-repeat;background-size: cover; margin-top:-4.5rem;">
         <!-- <img class="mb-3" src="img/Pembatas.png" width="250"> -->
         <div class="d-flex w-100 align-items-center justify-content-center mb-3" data-aos="flip-up" data-aos-delay="200">
-            <h2 class="caption" style="font-family:dancing; font-size:1.9rem; letter-spacing: -1px;"> Nunik &amp; Faisal</h2>
+            <h2 class="caption" style="font-family:dancing; font-size:1.9rem; letter-spacing: -1px;"> Bismillah</h2>
         </div>
 
         <div class="container" data-aos="fade-up">
