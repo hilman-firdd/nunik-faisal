@@ -155,6 +155,7 @@
         <div class="container">
             <header class="text-center text-white vh-100 d-flex flex-column align-items-center justify-content-center mb-5">
                 <!-- <img src="img/Intro.png"  style="width: 256px; height:250px; margin-top:5px;"><br> -->
+                <p style="font-family:dancing; font-size:1.9rem;color:#0a3d3e;">-Q.S. Ar-Rūm: 21-</p>
                 <p style="font-size:15.5px; font-family: 'Noto Naskh Arabic', serif; color:#0a3d3e;">وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُمْ مِنْ أَنْفُسِكُمْ أَزْوَاجًا لِتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُمْ مَوَدَّةً وَرَحْمَةً ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِقَوْمٍ يَتَفَكَّرُونَ</p>
                 <p style="font-size:13.5px; color:#0a3d3e;">Dan di antara tanda-tanda kekuasaan-Nya ialah Dia menciptakan untukmu isteri-isteri dari jenismu sendiri, supaya kamu cenderung dan merasa tenteram kepadanya, dan dijadikan-Nya diantaramu rasa kasih dan sayang. Sesungguhnya pada yang demikian itu benar-benar terdapat tanda-tanda bagi kaum yang berfikir.</p>
             </header>
