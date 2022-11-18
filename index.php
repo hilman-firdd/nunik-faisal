@@ -289,7 +289,29 @@
         </div>
     </section>
 
-    <section id="countdown" class="pb-0" style="background:url('img/Background Isi.png') center center no-repeat;background-size: cover; margin-top:-5.5rem;">
+    <svg class="editorial my-5" style="margin-top:-29px!important; margin-bottom:10px; position:relative;" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 24 150 28 " preserveAspectRatio="none">
+            <defs>
+                <path id="gentle-wave" d="M-160 44c30 0
+        58-18 88-18s
+        58 18 88 18
+        58-18 88-18
+        58 18 88 18
+        v44h-352z">
+            </defs>
+            <g class="parallax1">
+                <use xlink:href="#gentle-wave" x="50" y="3" fill="#e5eff1">
+            </g>
+            <g class="parallax2">
+                <use xlink:href="#gentle-wave" x="50" y="0" fill="#96d0de">
+            </g>
+            <!-- <g class="parallax3">
+                <use xlink:href="#gentle-wave" x="50" y="9" fill="#303030">
+            </g> -->
+            <g class="parallax4">
+                <use xlink:href="#gentle-wave" x="50" y="6" fill="#2e3f44">
+            </g>
+        </svg>
+    <section id="countdown" class="pb-0" style="background:url('img/Background Isi.png') center center no-repeat;background-size: cover;">
         <div class="container text-center mt-5">
             <!-- <img class="mb-3" src="img/Pembatas.png" width="250"> -->
             <div class="d-flex w-100 align-items-center justify-content-center mb-5" style="margin-top:-27px;" data-aos="flip-up" data-aos-delay="200">
